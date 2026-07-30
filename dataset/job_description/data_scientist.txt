@@ -1,0 +1,31 @@
+We are looking for a Data Scientist.
+
+Requirements
+
+Python
+
+Machine Learning
+
+Deep Learning
+
+TensorFlow
+
+SQL
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Docker
+
+Git
+
+AWS
+
+Good communication skills.
+
+Bachelor degree in Computer Science.
+
+Minimum 2 years experience.
